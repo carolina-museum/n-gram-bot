@@ -7,7 +7,7 @@ The basic structure consists of an **input layer, hidden layer(s), and  output l
 <img width="565" alt="ART_Artificial_intelligence_Neural_network_explain_(1)" src="https://github.com/user-attachments/assets/ddc54988-6217-4486-a822-e7c3e46dd94e"> \
 Figure 1. Structure of Neural Networks \
 Circles represent **neurons** and lines represent **neural connections**. \
-[reference: https://www.sciencelearn.org.nz/images/5156-neural-network-diagram] \
+[reference: https://www.sciencelearn.org.nz/images/5156-neural-network-diagram] 
 
 
 In this figure, there are 2 neurons for the input layer, 4 for each hidden layer, and 1 for the output layer.
