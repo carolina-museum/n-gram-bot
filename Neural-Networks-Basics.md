@@ -34,20 +34,20 @@ Figure 2. Representation of a function in mathematical expression and in neural 
 
 ## Prediction using neural networks
 The use of neural networks is mostly either prediction (regression) or classification. \
-As illustrated in Figure 3, one famous prediction use case is the prediction of future stock market trends using past trends. (time series prediction) 
+As illustrated in Figure 3, one famous **prediction use case** is the **prediction of future stock market trends** using past trends. (time series prediction) 
 
 <p align="center">
-<img width="581" alt="Screenshot 2024-10-07 at 13 13 37" src="https://github.com/user-attachments/assets/93916da3-8cb1-44d8-91af-eaa1ec28291c"> \
+<img width="623" alt="Screenshot 2024-10-07 at 13 39 29" src="https://github.com/user-attachments/assets/54514ca2-ff69-4bbd-b6d0-7a715131a0ca">
 </p>
 <p align="center">
 Figure 3. Prediction example using neural networks
 </p>
 
 ## Classification using neural networks
-Another use of neural networks is classification.
-As illustrated in Figure 4, one famous prediction use case is image classification.
+Another use of neural networks is classification. \
+As illustrated in Figure 4, one famous **classification use case** is **image classification**.
 <p align="center">
-  <img width="623" alt="Screenshot 2024-10-07 at 13 35 50" src="https://github.com/user-attachments/assets/6452faef-40c5-4036-9032-8d8531b60283">
+  <img width="623" alt="Screenshot 2024-10-07 at 13 39 48" src="https://github.com/user-attachments/assets/59516d19-1425-47a2-a5b6-8520fc0940bd">
 </p>
 <p align="center">
 Figure 4. Classification example using neural networks
