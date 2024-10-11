@@ -9,3 +9,12 @@ One of the earliest methods is called n-grams, where we look for word (string) m
 I will dig into **n-grams** (and their neural network expression), **RNN/LSTM**, and **attention mechanisms** in this article.
 
 
+## Natural Language Processing Tasks
+What do natural language processing models do? What can we do with them? \
+Some of the most common tasks are: 
+- next word prediction
+- sentiment classification
+- language translation
+- summarization
+- Q&A
+- Text generation
