@@ -18,3 +18,7 @@ Some of the most common tasks are:
 - summarization
 - Q&A
 - Text generation
+
+
+## The rest of the article
+The rest of the article and more articles will be updated at: https://github.com/gomyway1216/rag
